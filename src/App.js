@@ -7,7 +7,7 @@ import "./App.css";
 import HomePage from "./pages/homepage/homepage";
 import ShopPage from "./pages/shop/shop";
 import LoginPage from "./pages/login/login-page";
-import CheckoutPage from './pages/checkout/checkout'
+import CheckoutPage from "./pages/checkout/checkout";
 
 import Header from "./components/header/header";
 import { auth, createUserProfileDocument } from "./firebase/firebase.utils";
@@ -49,7 +49,7 @@ class App extends Component {
         <Header />
         <Switch>
           <Route exact path="/" component={HomePage} />
-          <Route exact path="/shop" component={ShopPage} />
+          <Route path="/shop" component={ShopPage} />
           <Route exact path="/checkout" component={CheckoutPage} />
           <Route
             exact
