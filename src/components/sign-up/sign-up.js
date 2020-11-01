@@ -4,7 +4,7 @@ import FormInput from "../form-input/form-input";
 import CustomButton from "../custom-button/custom-button";
 
 import { auth, createUserProfileDocument } from "../../firebase/firebase.utils";
-import SignIn from "../sign-in/sign-in";
+
 
 class SignUp extends Component {
   state = {
