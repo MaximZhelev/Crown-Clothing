@@ -1,4 +1,4 @@
-# The project need to be completed.
+[LIVE DEMO](https://crown-clothing-ecommerce-site.herokuapp.com/)
 
 # Getting Started with Create React App
 

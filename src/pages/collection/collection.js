@@ -7,7 +7,7 @@ import "./collection.scss";
 
 import CollectionItem from "../../components/collection-item/collection-item";
 
-const CollectionPage = ({ collection }) => {
+const CollectionPage = ({collection} ) => {
   const { title, items } = collection;
 
   return (
