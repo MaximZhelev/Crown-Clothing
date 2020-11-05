@@ -24,6 +24,7 @@ import { selectCollectionsForPreview } from "./redux/shop/shop-selectors";
 class App extends Component {
   unsubscribeFromAuth = null;
 
+  
   componentDidMount() {
     const { setCurrentUser, collectionsArray } = this.props;
 
