@@ -1,4 +1,5 @@
-[LIVE DEMO](https://crown-clothing-ecommerce-site.herokuapp.com/) \n
+[LIVE DEMO](https://crown-clothing-ecommerce-site.herokuapp.com/)
+
 !!! IT MAY LOAD SLOW BECAUSE ITS UPLOADED ON HEROKU AND SERVER NEEDS TO WAKE FIRST
 
 # Getting Started with Create React App
